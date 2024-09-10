@@ -1,2 +1,5 @@
-# day_20_task_1
-day_20_task_1
+# Promise Task
+
+# Deployed URL :
+
+https://66e097d78cc7c79e24b08103--comforting-pudding-c39023.netlify.app/
